@@ -1,11 +1,9 @@
 @import "tailwindcss";
 
-
-body{
-    background-color:#FEF9E1;
-    letter-spacing:3px;
+body {
+  background-color: #fef9e1;
+  letter-spacing: 3px;
 }
-*{
-    font-family:'WDXL Lubrifont TC'
-    
+* {
+  font-family: "WDXL Lubrifont TC";
 }
