@@ -38,9 +38,11 @@ A simple budget management web application built with React and Tailwind CSS.
     cd Budget-Task
 
 2. Install dependencies
+    ```bash
     npm install
 
 3. Start the development server
+    ```bash
     npm run dev
 
 
