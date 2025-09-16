@@ -78,7 +78,7 @@ const Layout = () => {
       {/*User UI */}
       {showProfile && (
         <div className="fixed top-0 left-0 w-full h-full backdrop-blur-xs flex justify-center items-center z-50">
-          <User onCanceal={() => setshowProfile(false)} />
+          <User onCancel={() => setshowProfile(false)} />
         </div>
       )}
 
